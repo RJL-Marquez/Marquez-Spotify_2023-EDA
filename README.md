@@ -648,7 +648,7 @@ plt.show()
 
 
     
-![output_35_0](https://github.com/user-attachments/assets/59573e88-8fe9-4e5a-9a05-18657236439a)
+![output_35_0](https://github.com/user-attachments/assets/d092f64d-419e-46b3-8097-810d59af0519)
 
 
 
@@ -754,8 +754,8 @@ plt.show()
 ```
 
 
-![output_44_0](https://github.com/user-attachments/assets/1ced25ba-cbf9-4bd8-873d-554555b54a20)
- 
+![output_44_0](https://github.com/user-attachments/assets/51cd9b1a-db2b-49d1-93c4-98a6ecc63b0d)
+
 
 
 -Looking at the graph, the song 'Blinding Lights' appears to be the most streamed song in the year 2023. The rest are 'Shape of You', 'Someone You Loved', 'Dance Monkey', and 'Sunflower', respectively.
@@ -829,7 +829,7 @@ plt.show()
 
 
     
-![output_48_0](https://github.com/user-attachments/assets/99a351fc-4025-4768-816f-a59805960d87)
+![output_48_0](https://github.com/user-attachments/assets/b4c27e38-bfa9-4903-8a6f-deca581ffaf0)
     
 
 
@@ -860,7 +860,7 @@ plt.show()
 ```
 
 
-![output_53_0](https://github.com/user-attachments/assets/9d9ec351-e8d6-4f0c-b5f6-e0d80fa690d8)
+![output_53_0](https://github.com/user-attachments/assets/fe6d2403-8828-45a6-9262-2716cb7f1046)
 
     
 
@@ -973,8 +973,8 @@ plt.show()
 
 
     
-![output_57_0](https://github.com/user-attachments/assets/1596a5ae-33d7-4e08-a943-0911c8f3ce6e)
-   
+![output_57_0](https://github.com/user-attachments/assets/dccba8f1-5314-4c23-a9a0-84b6f9ff365c)
+  
 
 
 -Looking at the bar graph above, we can see an increased amount of songs in the month of January and May. By thoroughly analyzing the data above, we can infer that both months enters a new season (e.g., January is the start of the Spring season, May is the peak summer season), which plays a role in setting a specific mood or emotions in the songs included in the list.
@@ -1001,7 +1001,7 @@ plt.show()
 
 
     
-![output_62_0](https://github.com/user-attachments/assets/388fad42-f1d6-4990-b874-659866543ad9)
+![output_62_0](https://github.com/user-attachments/assets/73fa9254-bfc7-4d04-94aa-2388d126aeee)
 
 
 -Looking at the plots above, there's a slightly noticeable trend or increase in streams to the songs with a BPM at around 90 to 150. However, there are still alot of other songs that have several amount of streams in every bpm (especially around 170 bpm). In conclusion, BPM may have a small effect or relation with the amount of streams but will not directly affect the amount of streams of a song.
@@ -1022,7 +1022,7 @@ plt.show()
 
 
     
-![output_65_0](https://github.com/user-attachments/assets/62e22433-420b-4098-873a-bdc0767031f6)
+![output_65_0](https://github.com/user-attachments/assets/989a596a-cc69-4f52-92c7-ceb71338208f)
    
 
 
@@ -1044,8 +1044,8 @@ plt.show()
 
 
     
-![output_68_0](https://github.com/user-attachments/assets/658106c0-2cf9-4bde-9aeb-1d38350dde8e)
-  
+![output_68_0](https://github.com/user-attachments/assets/7cc4b5ea-385f-4cfb-afcb-8384c9fef1fa)
+ 
 
 
 -Looking at the graph above, we can immediately see a positive trend, especially at the starting part of the x-axis, but then the number of streams slowly decreases at the higher Energy% (approximately around 90%). With that trend, we can conclude that having a proper amount of Energy% to a song can positively impact the number of streams it has.
@@ -1068,7 +1068,7 @@ plt.show()
 
 
     
-![output_72_0](https://github.com/user-attachments/assets/507d7b03-e16b-4a79-aff5-6045745d9f2e)
+![output_72_0](https://github.com/user-attachments/assets/157c99fe-119e-43fc-bd07-f306180f3d0f)
    
 
 
@@ -1088,8 +1088,8 @@ plt.show()
 
 
     
-![output_75_0](https://github.com/user-attachments/assets/f38cf1b4-a8c1-4b77-8318-617b5e929c13)
-    
+![output_75_0](https://github.com/user-attachments/assets/a86c0834-ffea-4a96-86d5-8ae95ffd8b6a)
+   
 
 
 
@@ -1108,7 +1108,7 @@ plt.show()
 
 
     
-![output_76_0](https://github.com/user-attachments/assets/e9f37928-d5c7-4c9b-ba55-bf9cd1b464cc)
+![output_76_0](https://github.com/user-attachments/assets/c8c6994a-fd19-492b-b77e-0611a10829e2)
     
 
 
@@ -1159,8 +1159,8 @@ plt.show()
 
 
     
-![output_82_0](https://github.com/user-attachments/assets/87d8e2f3-cc05-46f4-b86f-548cd71edfa3)
-   
+![output_82_0](https://github.com/user-attachments/assets/a266aecd-f7d9-42b2-a7d2-ea354b8d0554)
+  
 
 
 -When we look at the graph above, we can see a massive difference in between the number of tracks in Playlists (Spotify and Apple) and in the Charts. When it comes to the two categories in playlists, Spotify has the complete amount of songs included in the list (953), while the Apple Playlist come in second (930).
@@ -1246,8 +1246,8 @@ plt.show()
 
 
     
-![output_85_0](https://github.com/user-attachments/assets/99a2e831-226f-402d-9e52-5c8bb2bc8034)
-   
+![output_85_0](https://github.com/user-attachments/assets/fae0e3a4-b67f-4891-830f-b562c724d841)
+  
 
 
 -Comparing the Four Scatterplots above, we can observe a large amount of numbers in the spotify graph. When observing the trends and patterns, We can see a somewhat positive correlation on the 'Spotify X Streams' and 'Apple X Streams', which signifies that the total number of charts and playlist in those platform positively correlates to the number of streams a song has. On the other hand, the bottom two figures shows an inconsistent relation as both of the numbers included in both platforms are low, which means that only few people uses the two platform, thus having an insignificant correlation with the song's number of streams.
@@ -1377,7 +1377,7 @@ plt.show()
 
 
     
-![output_91_0](https://github.com/user-attachments/assets/722e0b0b-caa2-476e-9a83-991c6fb69488)
+![output_91_0](https://github.com/user-attachments/assets/67d721fe-972f-4b9e-b4dd-fcd0eee05391)
     
 
 
@@ -1445,8 +1445,8 @@ plt.show()
 
 
     
-![output_95_0](https://github.com/user-attachments/assets/cb682f17-35dd-4d8c-9f8e-d385d6044c12)
-   
+![output_95_0](https://github.com/user-attachments/assets/1064271a-4bc1-4a3e-b199-0c6cd62753c8)
+  
 
 
 -Looking at the resulting table above, we can see that there's a large difference with the amount of major and minor songs, which affected the graph above. By looking at the bar graph, we can see that the songs in major have a greater amount of stream than the songs in minor. By definition of the two modes, Major songs rely on the major keys in the notes, which produces a positive and bright tones. On the other hand, minor songs are focused on the negative/minor keys of the notes, which adds a gloomy or mysterious effect to the overall emotion of the song. With that, we can say that the songs that are considered happy/positives tend to have more streams than the gloomy songs.
